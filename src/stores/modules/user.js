@@ -26,8 +26,9 @@ export default {
             commit('setUsers', response.data.data)
         },
 
-        async deleteUserById({ commit }, id) {
+        async deleteUserById(_ , id) {
             let response = await axios.delete(API.api +'users/' + id);
+            response
             this.dispatch('loadUsers', {
                 name : null,
                 email : null

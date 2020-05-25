@@ -21,7 +21,7 @@
     "vue-sweetalert2": "^3.0.5",
     "vuejs-paginate": "^2.1.0",
     "vuex": "^3.4.0",
-    "webpack-dev-server": "^2.9.1"
+    "webpack-dev-server": "^3.1.11"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.3.0",

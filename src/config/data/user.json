@@ -1,0 +1,109 @@
+{
+    "pagination": {
+      "page": 3,
+      "next": true,
+      "first": true
+    },
+    "data": [
+      {
+        "id": 1000,
+        "title": "La Liga",
+        "numberOfLinksWithKeyword": 0,
+        "linkToArticlesWithKeyword": "#",
+        "searchArticlesWithKeyword": "#",
+        "category": "Bóng đá quốc tế",
+        "checked": false
+      },
+      {
+        "id": 1001,
+        "title": "La Liga",
+        "numberOfLinksWithKeyword": 0,
+        "linkToArticlesWithKeyword": "#",
+        "searchArticlesWithKeyword": "#",
+        "category": "Bóng đá quốc tế",
+        "checked": false
+      },
+      {
+        "id": 1002,
+        "title": "La Liga",
+        "numberOfLinksWithKeyword": 0,
+        "linkToArticlesWithKeyword": "#",
+        "searchArticlesWithKeyword": "#",
+        "category": "Bóng đá quốc tế",
+        "checked": false
+      },
+      {
+        "id": 1003,
+        "title": "La Liga",
+        "numberOfLinksWithKeyword": 0,
+        "linkToArticlesWithKeyword": "#",
+        "searchArticlesWithKeyword": "#",
+        "category": "Bóng đá quốc tế",
+        "checked": false
+      },
+      {
+        "id": 1004,
+        "title": "La Liga",
+        "numberOfLinksWithKeyword": 0,
+        "linkToArticlesWithKeyword": "#",
+        "searchArticlesWithKeyword": "#",
+        "category": "Bóng đá quốc tế",
+        "checked": false
+      },
+      {
+        "id": 1005,
+        "title": "La Liga",
+        "numberOfLinksWithKeyword": 0,
+        "linkToArticlesWithKeyword": "#",
+        "searchArticlesWithKeyword": "#",
+        "category": "Bóng đá quốc tế",
+        "checked": false
+      },
+      {
+        "id": 1006,
+        "title": "La Liga",
+        "numberOfLinksWithKeyword": 0,
+        "linkToArticlesWithKeyword": "#",
+        "searchArticlesWithKeyword": "#",
+        "category": "Bóng đá quốc tế",
+        "checked": false
+      },
+      {
+        "id": 1007,
+        "title": "La Liga",
+        "numberOfLinksWithKeyword": 0,
+        "linkToArticlesWithKeyword": "#",
+        "searchArticlesWithKeyword": "#",
+        "category": "Bóng đá quốc tế",
+        "checked": false
+      },
+      {
+        "id": 1008,
+        "title": "La Liga",
+        "numberOfLinksWithKeyword": 0,
+        "linkToArticlesWithKeyword": "#",
+        "searchArticlesWithKeyword": "#",
+        "category": "Bóng đá quốc tế",
+        "checked": false
+      },
+      {
+        "id": 1009,
+        "title": "La Liga",
+        "numberOfLinksWithKeyword": 0,
+        "linkToArticlesWithKeyword": "#",
+        "searchArticlesWithKeyword": "#",
+        "category": "Bóng đá quốc tế",
+        "checked": false
+      },
+      {
+        "id": 1010,
+        "title": "La Liga",
+        "numberOfLinksWithKeyword": 0,
+        "linkToArticlesWithKeyword": "#",
+        "searchArticlesWithKeyword": "#",
+        "category": "Bóng đá quốc tế",
+        "checked": false
+      }
+    ]
+  }
+  
